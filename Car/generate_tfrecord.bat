@@ -1,0 +1,2 @@
+python generate_tfrecord.py  --csv_input=C:\Users\arpan\OneDrive\Desktop\LP_images\train_labels.csv  --image_dir=C:\Users\arpan\OneDrive\Desktop\LP_images\train  --output_path=C:\Users\arpan\OneDrive\Desktop\LP_images\train.record
+python generate_tfrecord.py  --csv_input=C:\Users\arpan\OneDrive\Desktop\LP_images\test_labels.csv  --image_dir=C:\Users\arpan\OneDrive\Desktop\LP_images\test  --output_path=C:\Users\arpan\OneDrive\Desktop\LP_images\test.record
